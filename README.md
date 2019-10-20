@@ -1,10 +1,17 @@
 ## Hi!
 
 I'm Cecilia, I have been coding for about 2 years.
-I have finished the Certificate IV and have almost finished the Diploma of Software Development at Swinburne.
-I have worked mostly in C#, Javascript and done a bunch of SQL as a part of the course, as well as a large component of Project Management subjects that include using Microsoft Project, and creating behavourial and structural UML.
 
-This year we have been given the choice of our languages and I have found myself working more and more in React Javascript (Although when organising my GitHub for my job/Internship hunt I have realised I did really enjoy c# and I look forward to getting into Core in the future.)
+I current skills are in:
+**C#
+**Javascript
+***React mostly
+**SQL
+**GraphQL
+**Agile
+**Microsoft Project
+**Enterprise Architect Modeling
+**Have played with Angular/TypeScript/Gatsby
 
 I have included a list of relevant projects and assessments below. 
 Each project has a detailed README.md with a full breakdown of any big issues encountered, or my specific contributions to it.
