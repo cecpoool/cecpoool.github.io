@@ -2,16 +2,15 @@
 
 I'm Cecilia, I have been coding for about 2 years.
 
-I current skills are in:
-** C#
-** Javascript
-*** React mostly
-** SQL
-** GraphQL
-** Agile
-** Microsoft Project
-** Enterprise Architect Modeling
-** Have played with Angular/TypeScript/Gatsby
+My current skills are in:
+* C# 
+* Javascript(React mostly) 
+* SQL 
+* GraphQL 
+* Agile 
+* Microsoft Project 
+* Enterprise Architect Modeling 
+* Have played with Angular/TypeScript/Gatsby
 
 I have included a list of relevant projects and assessments below. 
 Each project has a detailed README.md with a full breakdown of any big issues encountered, or my specific contributions to it.
@@ -35,3 +34,4 @@ This was just a fun project.
 
 I am currently working on a few more assessments on Recursion and Testing which I will update here, as well as the second phase of our DGHA Mobile App.
 
+ 
